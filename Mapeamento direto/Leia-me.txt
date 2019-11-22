@@ -1,3 +1,4 @@
 
 ====================================================================
 Trabalho apresentado a disciplina de Arquitetura de Computadores II
+Para executar: main.py
